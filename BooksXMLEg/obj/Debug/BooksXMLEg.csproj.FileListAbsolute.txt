@@ -1,0 +1,9 @@
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\bin\Debug\BooksXMLEg.exe.config
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\bin\Debug\BooksXMLEg.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\bin\Debug\BooksXMLEg.pdb
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\obj\Debug\BooksXMLEg.csprojResolveAssemblyReference.cache
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\obj\Debug\BooksXMLEg.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\BooksXMLEg\BooksXMLEg\obj\Debug\BooksXMLEg.pdb
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\bin\Debug\BooksXMLEg.exe.config
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\obj\Debug\BooksXMLEg.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\obj\Debug\BooksXMLEg.pdb

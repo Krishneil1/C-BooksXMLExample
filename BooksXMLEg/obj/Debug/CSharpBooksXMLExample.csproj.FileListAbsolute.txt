@@ -1,0 +1,3 @@
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\bin\Debug\BooksXMLEg.exe.config
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\obj\Debug\BooksXMLEg.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\CSharpBooksXMLExample\BooksXMLEg\obj\Debug\BooksXMLEg.pdb
